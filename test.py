@@ -1,1 +1,0 @@
-print("welcome to my quiz game")
